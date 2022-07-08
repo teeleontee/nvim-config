@@ -6,6 +6,10 @@ set.tabstop = 4
 
 set.fileencoding = 'utf-8'
 
-set.number = true
+set.relativenumber = true
+set.rnu = true
+set.nu = true
+
+set.cursorline = true
 
 set.hidden = true
